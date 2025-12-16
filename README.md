@@ -9,5 +9,7 @@ The name is pompom454, and I _LOVE_ coding. I mainly work on games and other thi
   ![Static Badge](https://img.shields.io/badge/Proud%20owner%20of%20a-PS%20Vita-%230070D1?style=flat&logo=playstationvita)
   ![Static Badge](https://img.shields.io/badge/I%20still%20see-Wine%20inside%20my%20room-%23800000?style=flat&logo=wine)
   ![Static Badge](https://img.shields.io/badge/dis%20guy%20is-cute-%23222222?style=flat&logo=githubcopilot)
+  
+  ![My Skills](https://skillicons.dev/icons?i=raspberrypi,linux,windows,lua,js,html,go,github,cpp,cs,nodejs,py&perline=4)
 
 </div>
