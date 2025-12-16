@@ -3,3 +3,11 @@ The name is pompom454, and I _LOVE_ coding. I mainly work on games and other thi
 
 <div align="center"> <img src="https://github.com/pompom454/pompom454/blob/main/octocat-1765473313517.png" width="500" height="500"/> </div>
 <div align="center"> "I like pasta...but not on my keyboard." </div>
+
+<div align="center">
+  
+  ![Static Badge](https://img.shields.io/badge/Proud%20owner%20of%20a-PS%20Vita-%230070D1?style=flat&logo=playstationvita)
+  ![Static Badge](https://img.shields.io/badge/I%20still%20see-Wine%20inside%20my%20room-%23800000?style=flat&logo=wine)
+  ![Static Badge](https://img.shields.io/badge/dis%20guy%20is-cute-%23222222?style=flat&logo=githubcopilot)
+
+</div>
