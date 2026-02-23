@@ -3,6 +3,7 @@ The name is pompom454, and I _LOVE_ coding. I mainly work on games and other thi
 
 <div align="center"> <img src="https://github.com/pompom454/pompom454/blob/main/octocat-1765473313517.png" width="500" height="500"/> </div>
 <div align="center"> "I like pasta...but not on my keyboard." </div>
+<div align="center"> "...also my life is messy." </div>
 
 <div align="center">
   
